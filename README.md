@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there, I'm Darya Abedi
+## Data Analyst | Passionate about finding insights in data
 
-<!--
-**dryaabedi/dryaabedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming: Python
+- Databases: SQL
+- Data Visualization: Power BI
+- Excel
+- Statistical Analysis, Exploratory Data Analysis
+
+---
+
+## Projects
+
+
+---
+
+## Currently Learning
+
+- [ Machine Learning ]
+
+---
+
+## About Me
+
+ I enjoy working with real-world datasets, building dashboards, and turning raw data into meaningful insights for business 
+ decisions. I'm constantly learning and improving my data skills through personal projects and online courses.
+
+---
+
+## Contact
+
+- Email: [darya.abedi99@gmail.com]
+
+
+
+
